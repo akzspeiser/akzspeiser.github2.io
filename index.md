@@ -6,7 +6,7 @@ title: Summer 2024 DREU Project Site
 
 ## About Me
 
-Hello, I am **Zachary Ray Speiser**, but I go by **Zac**. I moved to Oregon about six years ago from Alaska and started school four years ago. I have been attending **Oregon State University** for two years now, and I love it here. I am a member of the **School of Electrical Engineering and Computer Science (EECS)** in the **College of Engineering** at Oregon State. I also serve as a **student body senator** for students with disabilities for the College of Engineering.
+Hello, I am **Zachary Ray Speiser**, but I go by **Zac**. I moved to Oregon about six years ago from Alaska and started school four years ago. I have been attending **Oregon State University** for two years now, and I love it here. I am a member of the **School of Electrical Engineering and Computer Science (EECS)** in the **College of Engineering** at Oregon State. I also serve as a **student body senator** for the College of Engineering.
 
 I just finished my fourth year working towards a double major in **Computer Science** and **Electrical and Computer Engineering**. My email address is [akzspeiser@gmail.com](mailto:akzspeiser@gmail.com).
 
@@ -62,16 +62,16 @@ I document my journey and progress on my blog. Check it out for regular updates!
 
 [Read My Blog](blog.html)
 
-Throughout this project, I will gain experience with the following:
-
 ## Skills and Technologies
+
+Throughout this project, I have gained experience with the following:
 
 - **Programming Languages:** Python, C++
 - **Robotics Software:** ROS, MoveIt
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** TensorFlow, Keras
 
-- ## Contact Me
+## Contact Me
 
 Feel free to reach out to me via email at [akzspeiser@gmail.com](mailto:akzspeiser@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zachary-speiser).
 
