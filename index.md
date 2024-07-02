@@ -28,7 +28,7 @@ We are working on creating a dataset that combines spoken words and phrases with
 
 This process will help us understand how humans communicate tasks to robots and how robots can better interpret and execute these tasks.
 
-![Franka Research 3](https://www.youtube.com/watch?v=91wFDNHVXI4)
+![Franka Research 3](https://store.clearpathrobotics.com/cdn/shop/products/FR3_image3_598x597.png?v=1663341441)
 
 ### Project Deliverables
 
