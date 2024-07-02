@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -34,7 +34,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -46,22 +45,27 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 26px;
+  margin-top: 30px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 22px;
+  margin-top: 25px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 20px;
   color: $gray;
+  margin-top: 20px;
 }
 
 p {
@@ -71,9 +75,9 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: darken($blue, 10%);
   }
 }
 
@@ -108,6 +112,8 @@ strong, b {
 
 img {
   max-width: 100%;
+  display: block;
+  margin: 20px auto;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -254,10 +260,11 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
+    border-left: 4px solid $blue;
+    padding: 0.5em 1em;
+    background: $lightGray;
+    color: $darkGray;
+    font-size: 1.2em;
     font-style: italic;
   }
 
@@ -281,6 +288,50 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+/**********************/
+/* CUSTOM STYLES */
+/**********************/
+
+code {
+  background: $lightGray;
+  padding: 2px 5px;
+  border-radius: 5px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+pre {
+  background: $lightGray;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.highlight {
+  background-color: $yellow;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.75em;
+  }
+
+  h3 {
+    font-size: 1.5em;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
