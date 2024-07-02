@@ -3,7 +3,7 @@ title: Summer 2024 DREU Project Site
 ---
 
 
-![Picture of me](images/me.jpg)
+<img src="images/me.jpg" alt="Picture of me" style="width: 200px;">
 
 # 🌟 Welcome to My Project Site 🌟
 
