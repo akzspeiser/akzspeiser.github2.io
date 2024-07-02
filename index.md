@@ -2,11 +2,14 @@
 title: Summer 2024 DREU Project Site
 ---
 
+
+![Picture of me](images/me.jpg)
+
 # 🌟 Welcome to My Project Site 🌟
 
 ## About Me
 
-Hello, I am **Zachary Ray Speiser**, but I go by **Zac**. I moved to Oregon about six years ago from Alaska and started school four years ago. I have been attending **Oregon State University** for two years now, and I love it here. I am a member of the **School of Electrical Engineering and Computer Science (EECS)** in the **College of Engineering** at Oregon State. I also serve as a **student body senator** for the College of Engineering.
+Hello, my name is **Zachary Speiser**, but I go by **Zac**. I moved to Oregon about six years ago from Alaska and started school four years ago. I have been attending **Oregon State University** for two years now, and I love it here. I am a member of the **School of Electrical Engineering and Computer Science (EECS)** in the **College of Engineering** at Oregon State. I also serve as a **student body senator** for the College of Engineering.
 
 I just finished my fourth year working towards a double major in **Computer Science** and **Electrical and Computer Engineering**. My email address is [akzspeiser@gmail.com](mailto:akzspeiser@gmail.com).
 
